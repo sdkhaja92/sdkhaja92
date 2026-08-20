@@ -1,59 +1,108 @@
 # Syed Khaja
 
-### Cybersecurity Consultant | Security Researcher | Technical Trainer
+### Cybersecurity Consultant | Security Engineer | Security Researcher | Technical Trainer
 
-I work across **cybersecurity, network security, security assessment, security operations, endpoint security, and security-focused automation**, with a focus on engineering practical solutions for real-world security requirements.
+I **design, build, test, and operationalize cybersecurity solutions** across security operations, endpoint security, network security, detection engineering, incident response, and security automation.
 
-My work combines **security engineering, hands-on assessment, security monitoring, detection engineering, incident response, automation, AI-infused security capabilities, and security-focused software development** to design, build, test, and document practical cybersecurity solutions.
+My work focuses on solving security problems through **engineering rather than tool dependency** — building security platforms, endpoint telemetry systems, detection pipelines, investigation workflows, automation capabilities, and AI-infused security solutions that can be deployed, tested, monitored, and continuously improved.
 
----
+I work across the security lifecycle:
 
-## Areas of Focus
-
-* Cybersecurity & Security Operations
-* Endpoint Security & Security Monitoring
-* Network Security & Traffic Analysis
-* Vulnerability Assessment
-* Detection Engineering & Log Analysis
-* Incident Response & Digital Forensics
-* Windows & Linux Security
-* Identity & Access Management
-* Security Automation & Orchestration
-* **AI-Infused Security Engineering**
-* Security Tool Development & Integration
-* Cybersecurity Training & Technical Education
+**Discover → Collect → Detect → Analyze → Investigate → Respond → Automate → Improve**
 
 ---
 
-## What I Build
+## 🔐 Core Security Engineering Areas
 
-I focus on turning security requirements into **practical, testable, scalable, and usable security solutions**.
+- **Security Operations & SOC Engineering**
+- **Endpoint Security & Endpoint Telemetry**
+- **Detection Engineering & Threat Detection**
+- **Network Security & Traffic Analysis**
+- **Security Monitoring & Log Engineering**
+- **Vulnerability Assessment & Security Testing**
+- **Incident Response & Digital Forensics**
+- **Windows & Linux Security**
+- **Identity & Access Management**
+- **Security Automation & Orchestration**
+- **AI-Infused Security Engineering**
+- **Security Tool Development & Integration**
+- **Cybersecurity Training & Technical Education**
 
-My projects combine security architecture, monitoring, detection, automation, intelligence, and operational workflows to address practical cybersecurity requirements.
+---
 
-### SOC & Endpoint Security
+## 🚀 What I Engineer
 
-**SOC-enterprise — Source-Available Endpoint Security & SOC Operations Platform**
+I focus on converting cybersecurity requirements into **working security systems**, not simply demonstrating individual security tools.
 
-A security platform designed to connect endpoint visibility with security operations through a unified workflow:
+My engineering work includes:
+
+- Endpoint telemetry and monitoring systems
+- SOC and security operations platforms
+- Security event collection and processing pipelines
+- Detection and alerting workflows
+- Threat intelligence integration
+- Risk analysis and security scoring
+- Incident investigation workflows
+- Security automation and response mechanisms
+- Network traffic analysis capabilities
+- Security-focused software and internal tools
+- AI-infused security analysis and decision-support capabilities
+
+The goal is to create security solutions that are:
+
+**Practical • Testable • Observable • Automatable • Maintainable • Scalable**
+
+---
+
+# 🛡️ Featured Security Engineering Work
+
+## SOC-enterprise
+
+### Source-Available Endpoint Security & SOC Operations Platform
+
+**SOC-enterprise** is an endpoint-focused security operations platform designed to bridge the gap between **endpoint visibility and SOC workflows**.
+
+Rather than treating endpoint monitoring, detection, alerting, investigation, risk analysis, and response as isolated functions, the platform connects them into a unified security workflow.
+
+### Security Operations Flow
 
 ```text
-Endpoint
-   ↓
-Telemetry
-   ↓
-Security Events
-   ↓
-Detection
-   ↓
-Threat Intelligence
-   ↓
-Risk Analysis
-   ↓
-Alerting
-   ↓
-Incident Response
-   ↓
-Investigation
-   ↓
-Resolution
+┌──────────────┐
+│   Endpoint   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  Telemetry   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│Security Event│
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   Detection  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│Threat Intel  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Risk Analysis│
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   Alerting   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Investigation│
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   Response   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  Resolution  │
+└──────────────┘
